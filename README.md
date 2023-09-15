@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheophilusAE
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning void
+- 🌱 I’m currently learning Full Stack
 - 💞️ I’m looking to collaborate with other people
 - 📫 How to reach me ...
 
