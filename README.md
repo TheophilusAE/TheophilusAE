@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @TheophilusAE
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning Full Stack
+- 🌱 I’m currently learning
+  1. Full Stack
+  2. C language
+  3. HTML Language
+  4. C++ Language
+  5. Java Language
 - 💞️ I’m looking to collaborate with other people
 - 📫 How to reach me ...
 
