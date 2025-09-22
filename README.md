@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheophilusAE
+- 👋 Hi, I’m @Theophilus Alexander Elvan
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning
   1. Full Stack
